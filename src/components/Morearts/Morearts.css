@@ -1,0 +1,46 @@
+.morearts__button {
+  width: 180px;
+  background: #ffffff;
+  color: black;
+  font-weight: 700;
+  border: 3px solid #fbaf00;
+  border-top: none;
+  border-left: none;
+  border-radius: 0px 30px;
+  padding: 15px 30px;
+}
+
+.morearts_image {
+  width: 38%;
+  height: 550px;
+  border-bottom: none;
+  border-right: none;
+  border-radius: 200px 20px 200px 0px;
+  margin-left: 100px;
+  margin-top: 170px;
+}
+.buttons {
+  display: flex;
+  margin-top: 18%;
+  margin-right: 52%;
+}
+.header_morearts {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+}
+.moreartsleft {
+  margin-left: 52%;
+  margin-top: -53%;
+}
+.morearts__text {
+  width: 80%;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.morearts{
+    padding-bottom: 10%;
+}

@@ -1,0 +1,26 @@
+* {
+  justify-content: center;
+}
+
+.footer__explore {
+  width: 230px;
+  background: #ffffff;
+  color: black;
+  font-weight: 700;
+  border: 2px solid #fbaf00;
+  border-top: none;
+  border-left: none;
+  border-radius: 0px 30px;
+  padding: 10px 30px;
+  margin-left: 39%;
+  margin-top: 8%;
+  margin-bottom: 10%;
+}
+.footer__icon {
+  margin-top: -160px;
+  margin-left: 53%;
+  width: 25px;
+}
+.footer__image {
+    margin-top: -500px;
+}
