@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
       {/* <Morearts/> */}
-      <Routes>
+       <Routes>
         <Route path='/' element={<Home/>} />
-      </Routes>      
+      </Routes>       
     </div>
   );
 }
